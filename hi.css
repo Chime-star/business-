@@ -1,0 +1,78 @@
+/* styling */
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    color: rgb(36, 36, 39);
+}
+hr{
+  margin-top: 7px;  
+}
+.b{
+padding-top: 4px;
+}
+fieldset{
+    border: none;
+}
+.h{
+    padding-top: 1em;
+}
+.df{
+    padding-top: 0.5em;
+}
+.dh{
+    padding-top: 0.5em;
+}
+.sd{
+padding-top: 0.5em;
+}
+.like{
+    padding-top: 0.5em;
+}
+.hg{
+     padding-top: 0.5em;
+}
+
+.aria{
+    padding-top: 0.5em;
+}
+.ds{
+    padding-top: 1em;
+}
+.ko{
+    padding-top: 1em;
+    
+}
+.finish{
+    padding-top: 3em;
+}
+.anu{
+    width: 90px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+.anu:hover{
+    background-color: darkgreen;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    text-decoration: underline;
+
+}
+
+main{
+    padding-left:0.5em;
+    background-color: rgb(210, 210, 255);
+}
+input:valid{
+    border: 2px solid green;
+}
+input:invalid{
+    border: 2px solid red;
+}

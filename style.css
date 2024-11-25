@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.ss{
+    color: white;
+    background-color: blue;
+    height: 2em;
+}
+.ion{
+    text-align: center;
+    padding-top: 10em;
+}.ds{
+    text-align: center;
+    padding-top: 3em;
+}
+#di{
+    width: 5em;
+    height: 2em;
+    color: white;
+    background-color: blue;
+    border: transparent;
+}
+#di:hover
+{
+    background-color: darkblue;
+}
+.shi{
+text-align: center;
+padding-top: 2em;
+}
+.df{
+    width: 10em;
+    height: 2em;
+    background-color: green;
+    border: transparent;
+    color: white;
+}
+.df:hover{
+    background-color: darkgreen;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+

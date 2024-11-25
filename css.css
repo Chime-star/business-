@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: burlywood;
+}
+.front{
+    background-color: burlywood;
+       border-bottom: 3px solid black;
+    
+}
+.dm{
+    padding-top: 0.5em;
+    font-size: 50px;
+}
+.take{
+    color: black;
+}
+.bf{
+    font-weight: bold;
+}
+.im{
+padding-top: 23px;
+}
+.df{
+    background-color: aliceblue;
+    
+    padding: 1% 1%;
+    border: solid;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    
+
+}
+.de{
+padding: 1% 1%;
+border: solid;
+background-color: burlywood;
+padding-top: 1em;
+margin-top: 4em;
+}
+.onh{
+    margin-top: 5px;
+    border-bottom: 3px solid black;
+}
+.hey{
+    font-size: 3em;
+    text-align: center;
+}
+.p{
+    padding-top: 1em;
+    border-bottom:3px solid black ;
+}
+.r{
+    width: 310px;
+    border: 5px solid black;
+}
+.y{
+    width: 6em;
+    border: 5px solid black;
+}
+.zy{
+    text-align: center;
+    width: 6em;   border: 5px solid black;
+}
+#gro{
+    padding-left: 10em;
+    text-align: center;
+   
+}
+.a{
+    width: 1em;
+    height: 1em;
+}
+.gg{
+    padding-top: 1em; 
+    padding-right: 60%;
+}
